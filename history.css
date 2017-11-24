@@ -1,0 +1,16 @@
+body {
+	background-color: rgb(0,176,74); /*Pakistan Flag Color Green*/
+}
+
+h1 {
+	text-align: center;
+	text-decoration: underline;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 50px
+}
+
+p {
+	text-align: left;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 25px
+}
